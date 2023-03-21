@@ -1,0 +1,15 @@
+/Users/tadiyabrown/repos/CommandLine/bin/Debug/net7.0/CommandLine
+/Users/tadiyabrown/repos/CommandLine/bin/Debug/net7.0/CommandLine.deps.json
+/Users/tadiyabrown/repos/CommandLine/bin/Debug/net7.0/CommandLine.runtimeconfig.json
+/Users/tadiyabrown/repos/CommandLine/bin/Debug/net7.0/CommandLine.dll
+/Users/tadiyabrown/repos/CommandLine/bin/Debug/net7.0/CommandLine.pdb
+/Users/tadiyabrown/repos/CommandLine/obj/Debug/net7.0/CommandLine.csproj.AssemblyReference.cache
+/Users/tadiyabrown/repos/CommandLine/obj/Debug/net7.0/CommandLine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tadiyabrown/repos/CommandLine/obj/Debug/net7.0/CommandLine.AssemblyInfoInputs.cache
+/Users/tadiyabrown/repos/CommandLine/obj/Debug/net7.0/CommandLine.AssemblyInfo.cs
+/Users/tadiyabrown/repos/CommandLine/obj/Debug/net7.0/CommandLine.csproj.CoreCompileInputs.cache
+/Users/tadiyabrown/repos/CommandLine/obj/Debug/net7.0/CommandLine.dll
+/Users/tadiyabrown/repos/CommandLine/obj/Debug/net7.0/refint/CommandLine.dll
+/Users/tadiyabrown/repos/CommandLine/obj/Debug/net7.0/CommandLine.pdb
+/Users/tadiyabrown/repos/CommandLine/obj/Debug/net7.0/CommandLine.genruntimeconfig.cache
+/Users/tadiyabrown/repos/CommandLine/obj/Debug/net7.0/ref/CommandLine.dll
